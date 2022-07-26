@@ -1,0 +1,21 @@
+{
+    "name": "corespace-darker",
+    "displayName": "Corespace Darker",
+    "description": "A nice theme that goes easy on your eyes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Corespace Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Corespace Darker-color-theme.json"
+            }
+        ]
+    }
+}
