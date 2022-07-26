@@ -2,7 +2,11 @@
     "name": "corespace-darker",
     "displayName": "Corespace Darker",
     "description": "A nice theme that goes easy on your eyes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AsP3X/corespace-darker"},
     "version": "0.0.1",
+    "license": "ZOUPA",
     "engines": {
         "vscode": "^1.69.0"
     },
