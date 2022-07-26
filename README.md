@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "corespace-darker"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# [Corespace Darker](https://github.com/AsP3X/corespace-darker)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+A darker variation of the Default theme for Visual Studio Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<!-- ## Installation -->
 
-**Enjoy!**
+<!-- Press `ctrl/command + shift + p` to launch the command palette, then run:
+```
+ext install 
+``` -->
+
+## Todo List
+
+See [GitHub Projects](https://github.com/users/AsP3X/projects/4) for more.
+
+## Requirements
+
+* Visual Studio Code (http://code.visualstudio.com/)
