@@ -16,3 +16,7 @@ See [GitHub Projects](https://github.com/users/AsP3X/projects/4) for more.
 ## Requirements
 
 * Visual Studio Code (http://code.visualstudio.com/)
+
+## Used resources
+
+* <a href="https://www.flaticon.com/de/kostenlose-icons/entwicklung" title="entwicklung Icons">"Entwicklung" von Eucalyp - Flaticon</a>
