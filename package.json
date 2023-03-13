@@ -5,8 +5,9 @@
     "publisher": "AsP3X",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AsP3X/corespace-darker"},
-    "version": "1.0.1",
+        "url": "https://github.com/AsP3X/corespace-darker"
+    },
+    "version": "1.0.2",
     "license": "ZOUPA",
     "icon": "icon_corespace-darker.png",
     "engines": {
